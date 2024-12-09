@@ -1,4 +1,4 @@
-# CAformer
+# FOCformer
 This is a code house for FOCformer for deep time series forecasting.
 
 
