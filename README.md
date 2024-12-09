@@ -35,7 +35,7 @@ bash ./scripts/FOCformer_WTH.sh
 
 
 5. Model Performance.
-The forecasting performance of CAformer in ETT datasets is displayed as follows:
+The forecasting performance of FOCformer in ETT datasets is displayed as follows:
 
 <p align="center">
 <img src="./figures/performance.png"  alt="" align=center />
@@ -43,7 +43,7 @@ The forecasting performance of CAformer in ETT datasets is displayed as follows:
 
 
 6. Ablation Study.
-Further, we explored the effectiveness of Causal Attention (CA), we substituted CA with vanilla attention and conduct the experiment once again. The comparison of forecasting is exhibited as follows:
+Further, we explored the effectiveness of Fractional-Order Causal Attention (FOCAttention), we substituted FOCAttention with VanillaAttention as well as CausalAttention and conduct the experiment once again. The comparison of forecasting is exhibited as follows:
 
 <p align="center">
 <img src="./figures/ablation.png"  alt="" align=center />
